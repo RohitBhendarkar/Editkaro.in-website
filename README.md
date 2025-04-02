@@ -1,4 +1,4 @@
-# EditKaro.in - Video Editing Portfolio Website<br>
+# EditKaro.in - Video Editing Portfolio Website
 
 A modern, responsive portfolio website for video editing services.
 
