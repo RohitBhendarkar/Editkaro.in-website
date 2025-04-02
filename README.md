@@ -84,4 +84,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 Your Name - rohitlbhendarkar@gmail.com
-Project Link: https://github.com/yourusername/editkaro-website #
+Project Link: https://github.com/RohitBhendarkar/Editkaro.in-website 
